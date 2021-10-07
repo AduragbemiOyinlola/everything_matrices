@@ -1,3 +1,5 @@
+# I'm Zubair
+
 import numpy as np
 row1 = int(input('no of row of matrix: '))
 col1 = int(input('no of coluns of matrix: '))
